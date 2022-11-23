@@ -1,0 +1,40 @@
+p{ color:rgb(4, 3, 3);
+    font-size:23px;
+    text-align: center;
+    padding: 25px;
+  }
+  
+  body{ background:#ffffff;
+    color:#fff;
+  }
+  
+  .form{
+    text-align: center;
+    border-color: #000;
+    border: #000 1px;
+    width:355px;
+    background:rgb(38, 37, 37);
+    padding: 1px;
+    margin: auto;
+    color:rgb(223, 223, 223);
+  }
+  
+  button{
+   border: none;
+    width: 50%;
+    margin: 19px 0; 
+    padding:12px;
+    background:#1ca105;
+    color:#fff;
+  }
+  
+  button:hover{
+
+    background: #FFDFDF;
+    color:#000;
+    cursor: pointer;
+  }
+
+  label{
+    color: rgb(255, 255, 255);
+  }
